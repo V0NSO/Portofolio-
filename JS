@@ -1,0 +1,10 @@
+console.log("Terimakasih Client");
+window.alert("Hallo Gengs!")
+
+var yakin = confirm("Apakah kamu ingin mendengarkan music");
+
+        if (yakin) {
+            window.location = "https://www.youtube.com/watch?v=9eK1Rfe1IIo";
+        } else {
+            document.write("");
+        }
